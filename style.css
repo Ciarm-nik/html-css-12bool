@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    background-color: #ffc0cb;
+    border: 1px solid black;
+}
+
 .bg_salmon {
     background-color: #f07f80;
 }
+
+.padding5 {
+    padding: 5px;
+}
+
