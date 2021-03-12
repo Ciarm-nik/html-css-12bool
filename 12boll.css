@@ -8,11 +8,7 @@
     clear: both;
 }
 
-[class*="col-"] {
-    float: left;
-    padding: 50px 0;
-    text-align: center;
-}
+
 
 .col-1 {
     width: calc(100% / 12);
