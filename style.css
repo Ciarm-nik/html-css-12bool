@@ -3,3 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.bg_salmon {
+    background-color: #f07f80;
+}
